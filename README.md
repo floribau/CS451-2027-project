@@ -1,4 +1,4 @@
-# Distributed Algorithms 2025/26 - EPFL
+# Distributed Algorithms 2026/27 - EPFL
 
 The goal of this practical project is to implement certain building blocks necessary for a decentralized system:
 
